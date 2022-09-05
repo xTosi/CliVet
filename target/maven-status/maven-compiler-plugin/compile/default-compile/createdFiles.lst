@@ -1,0 +1,12 @@
+model\Consulta.class
+model\Veterinario.class
+controller\Controller.class
+model\Cliente.class
+model\Animal.class
+model\Especie.class
+model\Tratamento.class
+view\MainView.class
+model\AnimalDAO.class
+model\Exame.class
+model\ClienteDAO.class
+view\MainView$1.class
